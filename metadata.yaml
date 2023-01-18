@@ -1,0 +1,29 @@
+_repo: The-knowledge-machine_69665
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    alias: Blade, Alexander
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2022-12-30'
+identifiers:
+  gutenberg: '69665'
+language: en
+pgterms:marc905: 20220510070623hamilton
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The knowledge machine
+url: http://www.gutenberg.org/ebooks/69665
